@@ -16,6 +16,8 @@
 
  <img align="middle" src="https://jamorham.github.io/images/jamorham-natural-language-treatments-two-web.png">
 
+
+
 ## What does it do?
 
 xDrip+ is an unofficial and independent Android app which works as data hub and processor between many different devices.
